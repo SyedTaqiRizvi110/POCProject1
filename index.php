@@ -2,7 +2,7 @@
 
 <div class="">
     
-
+I am khizer
             <div id="slider" class="sl-slider-wrapper">
 
         <div class="sl-slider">
